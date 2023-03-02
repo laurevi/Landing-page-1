@@ -1,0 +1,31 @@
+
+
+@import url('all.css');
+
+
+@import url(banner.css);
+@import url(buttons.css);
+@import url(cards.css);
+@import url(container.css);
+@import url(footer.css);
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+.links i{
+	margin: 5px;
+	
+}
